@@ -27,5 +27,5 @@ All programs listed here are coded in Java.
 <h2>Misc</h2>
 <ul>
   <li><a href="https://github.com/shishir03/google_news_feed">Google News Feed</a>: A <em>very</em> simplistic website that displays the top technology news of the day.</li>
-  <li><a href="https://github.com/shishir03/minecraft-mapper"></a>: This is a Minecraft plugin that can model the terrain of a small region (such as the Bay Area) in a Minecraft world (ideally superflat) by using the Google Maps Elevation API. Unfortunately, this program does not work anymore because my free trial for the API expired.</li>
+  <li><a href="https://github.com/shishir03/minecraft-mapper">Minecraft Mapper</a>: This is a Minecraft plugin that can model the terrain of a small region (such as the Bay Area) in a Minecraft world (ideally superflat) by using the Google Maps Elevation API. Unfortunately, this program does not work anymore because my free trial for the API expired.</li>
 </ul>
