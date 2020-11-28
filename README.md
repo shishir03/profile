@@ -5,7 +5,7 @@ Throughout high school, I have worked on multiple coding projects - some as part
 <ul>
   <li><a href="https://github.com/shishir03/game_of_life">Game of Life</a>: This program implements the popular cellular automaton Conway's Game of Life. The "game" is laid out on a grid, where filled in cells are alive and empty cells are dead. Live cells with less than two or more than three living neighbors die, while dead cells with three living neighbors become alive. Specific initial patterns can either cause repeating patterns or very long, nonrepeating sequences.</li>
   <li><a href="https://github.com/shishir03/netflix_prize">Netflix Prize</a>: Close to the end of the year, our class held a contest inspired by the 2009 Netflix Prize contest to see who could come up with a better movie recommendation algorithm. The task was to design an algorithm that could predict the rating (in stars) a user would give a certain movie with the lowest RMSE (root mean square error). My code generally produced an RMSE of 0.86-0.87, which was the third best in the class.
-  <img src="https://variety.com/wp-content/uploads/2017/07/netflix-logo.jpg?w=681&h=383&crop=1"/>
+  <img src="https://variety.com/wp-content/uploads/2017/07/netflix-logo.jpg?w=681&h=383&crop=1" width=200 height=112/>
   </li>
   </ul>
 
