@@ -4,7 +4,9 @@ Throughout high school, I have worked on multiple coding projects - some as part
 <h2>APCS Projects</h2>
 <ul>
   <li><a href="https://github.com/shishir03/game_of_life">Game of Life</a>: This program implements the popular cellular automaton Conway's Game of Life. The "game" is laid out on a grid, where filled in cells are alive and empty cells are dead. Live cells with less than two or more than three living neighbors die, while dead cells with three living neighbors become alive. Specific initial patterns can either cause repeating patterns or very long, nonrepeating sequences.</li>
-  <li><a href="https://github.com/shishir03/netflix_prize">Netflix Prize</a>: Close to the end of the year, our class held a contest inspired by the 2009 Netflix Prize contest to see who could come up with a better movie recommendation algorithm. The task was to design an algorithm that could predict the rating (in stars) a user would give a certain movie with the lowest RMSE (root mean square error). My code generally produced an RMSE of 0.86-0.87, which was the third best in the class.</li>
+  <li><a href="https://github.com/shishir03/netflix_prize">Netflix Prize</a>: Close to the end of the year, our class held a contest inspired by the 2009 Netflix Prize contest to see who could come up with a better movie recommendation algorithm. The task was to design an algorithm that could predict the rating (in stars) a user would give a certain movie with the lowest RMSE (root mean square error). My code generally produced an RMSE of 0.86-0.87, which was the third best in the class.
+  <img src="https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2019%2F10%2Fnetflix-logo-2000.jpg"/>
+  </li>
   </ul>
 
 All programs listed here are coded in Java.
