@@ -19,7 +19,8 @@ All programs listed here are coded in Java.
   </ul>
 <h2>Physics</h2>
 <ul>
-  <li><a href="https://github.com/shishir03/ap_physics_atwood_simulation">Atwood Simulator</a>: I coded this program (in Java) for my AP Physics final project. Atwood machines are common physics problems, involving a system of two masses and a pulley. This simulator accounts for many variants of the problem, including a half-atwood (one mass is suspended), a full atwood (both masses are suspended), or a ramp atwood (one or both masses are on an incline). All the masses (including the pulley's mass) can be adjusted with sliders. The string's mass is negligible, and I didn't have enough time to implement friction on either the surfaces or in the pulley.
+  <li><a href="https://github.com/shishir03/ap_physics_atwood_simulation">Atwood Simulator</a>: I coded this program (in Java) for my AP Physics final project. Atwood machines are common physics problems, involving a system of two masses and a pulley. This simulator accounts for many variants of the problem, including a half-atwood (one mass is suspended), a full atwood (both masses are suspended), or a ramp atwood (one or both masses are on an incline). All the masses (including the pulley's mass) can be adjusted with sliders. The string's mass is negligible, and I didn't have enough time to implement friction on either the surfaces or in the pulley.<br></br>
+  <img src="https://lh3.googleusercontent.com/proxy/CUbQBACbTM49zYLiP0aCW58uJZf3cmDrnxvBp1dEoFYQrCRPQacXmNg8ik5KZJhNxGY7MHV-x7YCiSUh9QlBHBy3lNKLMRA_cQ4r8SrT6Gf5XADpnmuCz56i_-vyKRTROMkTy9nFnfCkG4k"/>
   </li>
   </ul>
 <h2>Weather</h2>
