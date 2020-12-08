@@ -1,6 +1,6 @@
 # Profile
 <h2>Overview</h2>
-Throughout high school, I have worked on multiple coding projects - some as part of school and some independently, either to simplify daily tasks such as recording and processing data or just for fun.
+Here is a selection of some of my most notable projects throughout high school.
 <h2>APCS Projects</h2>
 <ul>
   <li><a href="https://github.com/shishir03/game_of_life">Game of Life</a>: This program implements the popular cellular automaton Conway's Game of Life. The "game" is laid out on a grid, where filled in cells are alive and empty cells are dead. Live cells with less than two or more than three living neighbors die, while dead cells with three living neighbors become alive. Specific initial patterns can either cause repeating patterns or very long, nonrepeating sequences.
@@ -35,6 +35,8 @@ All programs listed here are coded in Java.
   <li><a href="https://github.com/shishir03/weather-recorder">Weather Recorder</a>: This program automatically updates my spreadsheet of weather data every night close to midnight. Because it's a Google Script, it was primariy written in Javascript.
   </li>
   </ul>
+ <h2>Photography</h2>
+ Flickr: https://www.flickr.com/photos/189567861@N04/
 <h2>Misc</h2>
 <ul>
   <li><a href="https://github.com/shishir03/google_news_feed">Google News Feed</a>: A <em>very</em> simplistic website that displays the top technology news of the day.</li>
