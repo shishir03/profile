@@ -37,7 +37,7 @@ All programs listed here are coded in Java.
   </ul>
  <h2>Photography</h2>
  Flickr: https://www.flickr.com/photos/189567861@N04/
- <a data-flickr-embed="true" href="https://www.flickr.com/photos/189567861@N04/50255986668/in/dateposted-public/" title="milkyway2"><img src="https://live.staticflickr.com/65535/50255986668_a034b659c7_k.jpg" width="2048" height="1253" alt="milkyway2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+ <img src=https://flic.kr/p/2jyX4WL width=350/>
  <em>Above is one of the photos I have taken during high school.</em>
 <h2>Misc</h2>
 <ul>
