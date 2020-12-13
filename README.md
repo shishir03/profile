@@ -26,6 +26,7 @@ All programs listed here are coded in Java.
   </li>
   </ul>
 <h2>Weather</h2>
+The projects here are largely related in some way to recording and analyzing weather data from my backyard weather station.
 <ul>
   <li><a href="https://github.com/shishir03/wind_rose">Wind Rose</a>: I coded this program (in Java) in order to easily produce a wind rose plot of my weather data for a specified range of dates. A wind rose is a plot that shows the distribution of wind direction and wind speed over time. Making such a plot is not easy to do in a spreadsheet, so this program simplifies this task somewhat. However, it is best to stick to recent dates, as the Ambient Weather API stores data a few months ago at lower resolution, and completely archives data going back long enough.
     <br></br>
@@ -34,6 +35,7 @@ All programs listed here are coded in Java.
   </li>
   <li><a href="https://github.com/shishir03/weather-recorder">Weather Recorder</a>: This program automatically updates my spreadsheet of weather data every night close to midnight. Because it's a Google Script, it was primariy written in Javascript.
   </li>
+  <li><a href="https://github.com/shishir03/shishir03.github.io">Weather Website</a>This website displays daily weather graphs of the weather data from my weather station, as well as weather forecasts and radar from the NWS for my current location. This is still a work in progress.</li>
   </ul>
  <h2>Photography</h2>
  Flickr: https://www.flickr.com/photos/189567861@N04/
