@@ -35,7 +35,7 @@ The projects here are largely related in some way to recording and analyzing wea
   </li>
   <li><a href="https://github.com/shishir03/weather-recorder">Weather Recorder</a>: This program automatically updates my spreadsheet of weather data every night close to midnight. Because it's a Google Script, it was primariy written in Javascript.
   </li>
-  <li><a href="https://github.com/shishir03/shishir03.github.io">Weather Website</a>This website displays daily weather graphs of the weather data from my weather station, as well as weather forecasts and radar from the NWS for my current location. This is still a work in progress.</li>
+  <li><a href="https://github.com/shishir03/shishir03.github.io">Weather Website</a>: This website displays daily weather graphs of the weather data from my weather station, as well as weather forecasts and radar from the NWS for my current location. This is still a work in progress.</li>
   </ul>
  <h2>Photography</h2>
  Flickr: https://www.flickr.com/photos/189567861@N04/
